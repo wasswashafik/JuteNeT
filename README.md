@@ -19,7 +19,7 @@ The image presented here, those numbers 1 through 5 indicate that the following;
 
 
 ***********************************************************************************************************************************************************
-If find it complex to understand the code, kindly reach me at wasswashafik@gmail.com for assistance, I often yearn to help
+If find it complex to understand the code, kindly reach me at wasswashafik@gmail.com for assistance, I often yearn to help. 
 
 
 *********************************************************************************************************************************************************
